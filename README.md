@@ -1,2 +1,2 @@
 # Calculator
- Calculator Website Made With HTML, CSS &amp; JA
+ Calculator Website Made With HTML, CSS 
